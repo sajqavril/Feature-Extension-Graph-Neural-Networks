@@ -1,0 +1,9 @@
+dataset,lr,weight_decay,nhid,layers,S,P
+cora,0.01,0.01,64,3,50,gpr
+citeseer,0.01,0.02,64,1,100,gpr
+pubmed,0.01,0.0005,64,3,100,gpr
+computers,0.01,0.0005,64,3,1000,gpr
+photo,0.01,0.0005,64,3,500,gpr
+chameleon,0.01,0.0005,64,3,700,gpr
+squirrel,0.01,0.001,64,3,2000,gpr
+actor,0.01,0.005,64,2,0,gpr
