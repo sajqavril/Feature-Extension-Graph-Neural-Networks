@@ -1,6 +1,10 @@
 # Code for FEGNN
-This is the code repository for FEGNN, where the requirements, model's implementation, the best parameters, and examples are provided.  
+This is the code repository for FEGNN, where the requirements, model's implementation, the best parameters, and examples are provided. 
+
+If you are intserested in our work, you may check more details from the [pre-print version](https://arxiv.org/pdf/2305.06142.pdf).
+
 There are two steps to reproduce our results in the submission.
+
 ## Step 1: install the packages
 Python 3.8.8 is required.
 ```txt
@@ -67,4 +71,4 @@ In FEGNN, there are mainly SEVEN hyper-parameters that can make adjustment to co
 
 Note: this package only implements FEGNN and its variants. For other compared baselines in our script, your may try the original code repository of the papers of the hyper-parameters we provide in the Appendix.
 
-The code of the addictively added experiments will be sooning appended. Thanks!
+<!-- The code of the addictively added experiments will be sooning appended. Thanks! -->
