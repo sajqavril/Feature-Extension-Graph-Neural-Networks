@@ -1,4 +1,4 @@
-# Code for FEGNN
+# Code Repo for 'Feature Expansion for Graph Neural Networks'
 This is the code repository for FEGNN, where the requirements, model's implementation, the best parameters, and examples are provided. 
 
 If you are intserested in our work, you may check more details from the [pre-print version](https://arxiv.org/pdf/2305.06142.pdf).
