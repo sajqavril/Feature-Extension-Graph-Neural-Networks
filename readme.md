@@ -1,7 +1,7 @@
 # Code Repo for 'Feature Expansion for Graph Neural Networks'
 This is the code repository for FEGNN, where the requirements, model's implementation, the best parameters, and examples are provided. 
 
-If you are intserested in our work, you may check more details from the [pre-print version](https://arxiv.org/pdf/2305.06142.pdf).
+If you are intserested in our work, you may check more details from the [ICML 2023 Published Version](https://proceedings.mlr.press/v202/sun23p.html).
 
 There are two steps to reproduce our results in the submission.
 
@@ -60,6 +60,7 @@ In FEGNN, there are mainly SEVEN hyper-parameters that can make adjustment to co
 
 
 # main hyper-parameters
+--nl # please set this to -1 to get the best performance by using all principal components of the structure matrix, e.g. adjacency. 
 --lr # [FLOAT] learning rate
 --weight_decay # [FLOAT]weight decay
 --nhid # [INT] hidden dimension
